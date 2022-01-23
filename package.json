@@ -2,6 +2,7 @@
 	"name": "fcc-learn-npm-package-json",
 	"author": "Ashutosh Talwalkar",
   "description": "My first ever node.js project",
+  "keywords": ["Ashu", "Node.js", "Backend", "FCC"],
 	"dependencies": {
 		"express": "^4.14.0"
 	},
