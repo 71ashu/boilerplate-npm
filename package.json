@@ -1,20 +1,25 @@
 {
-	"name": "fcc-learn-npm-package-json",
-	"author": "Ashutosh Talwalkar",
+  "name": "fcc-learn-npm-package-json",
+  "author": "Ashutosh Talwalkar",
   "description": "My first ever node.js project",
-  "keywords": ["Ashu", "Node.js", "Backend", "freecodecamp"],
+  "keywords": [
+    "Ashu",
+    "Node.js",
+    "Backend",
+    "freecodecamp"
+  ],
   "version": "1.0.0",
   "license": "MIT",
-	"dependencies": {
-    "moment": "2.14.0",
-		"express": "^4.14.0"
-	},
-	"main": "server.js",
-	"scripts": {
-		"start": "node server.js"
-	},
-	"repository": {
-		"type": "git",
-		"url": "https://idontknow/todo.git"
-	}
+  "dependencies": {
+    "moment": "2.10.2",
+    "express": "^4.14.0"
+  },
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://idontknow/todo.git"
+  }
 }
